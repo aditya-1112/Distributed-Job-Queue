@@ -1,0 +1,4 @@
+redis==5.0.8
+psycopg[binary,pool]
+prometheus-client==0.20.0
+-e ../shared
